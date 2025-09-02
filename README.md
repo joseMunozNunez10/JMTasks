@@ -59,3 +59,6 @@ Este proyecto sigue mi trayectoria como desarrollador de Android:
 ## 📄 Licencia
 
 Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para detalles.
+
+<div align="center">⭐ Si te parece útil este proyecto, ¡no olvides darle una estrella!
+</div> 
